@@ -1,5 +1,7 @@
 public class MinQuestions {
 
+    // HW3 - Ex.1
+
     // Given n questions (1...n) in form of (mi, li) where mi:points li:time for question
     // return minimum number of minutes to achieve 'B' points in the exam
 

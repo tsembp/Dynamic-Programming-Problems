@@ -2,6 +2,8 @@ import java.util.Arrays;
 
 public class CoinChange {
 
+    // Example from lectures
+
     public static Object[] solution(int coins[], int amount){
         int K[] = new int[amount + 1]; // minimum number of coins for K[i] amount
         Arrays.fill(K, amount + 1); // at most 'amount' coins (1s coins)

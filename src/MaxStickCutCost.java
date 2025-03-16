@@ -1,5 +1,7 @@
 public class MaxStickCutCost {
 
+    // Example from lectures
+
     // Assume you have a stick that can be cut as so:
     // Μήκος i (cm) 1 2 3 4 5  6  7  8  9  10
     // Τιμή τi (€)  1 5 8 9 10 17 17 20 24 30

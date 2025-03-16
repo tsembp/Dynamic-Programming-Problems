@@ -1,4 +1,6 @@
 public class ToyComponentSequence {
+
+    // HW3 - Ex.5
     
     // - Given a sequence of components E = e1, e2, ..., en for constructing toy 1 (given to one staff)
     // - And a similar sequence P = p1, p2, ..., pm for constructing toy 2

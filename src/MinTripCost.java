@@ -3,6 +3,8 @@ import java.util.List;
 
 public class MinTripCost {
 
+    // HW3 - Ex.2
+
     // You want to travel from Athens to a Destination but visit in-between cities for exploration
     // Given n cities <Π1, Π2, ..., Πn-1, Destination> and their distance
     // from athens <α1, α2, ..., αn-1, αDestination>

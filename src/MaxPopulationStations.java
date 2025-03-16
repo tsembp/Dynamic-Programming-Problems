@@ -1,6 +1,8 @@
 import java.util.Arrays;
 
 public class MaxPopulationStations {
+
+    // HW3 - Ex.4
     
     // - Given a sequence A=<a1, a2, ..., an> where ai:popilation of village i
     // - We want to place cellphone stations in villages BUT two adjacent villages cannot have stations and

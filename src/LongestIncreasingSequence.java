@@ -1,5 +1,7 @@
 public class LongestIncreasingSequence {
     
+    // Standard LIS
+    
     public int solution(int[] nums){
         int dp[] = new int[nums.length]; // length of longest seq ending at i
         dp[0] = 1;

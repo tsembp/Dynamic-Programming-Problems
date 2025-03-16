@@ -3,6 +3,8 @@ import java.util.Collections;
 import java.util.List;
 
 public class QuadAscendingSeq {
+
+    // HW3 - Ex.8
     
     public static int solution(int nums[]){
         int dp[] = new int[nums.length];

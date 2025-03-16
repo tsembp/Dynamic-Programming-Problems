@@ -1,5 +1,7 @@
 public class MinOperationsTo1 {
 
+    // HW3 - Ex.6
+
     /**
      * Return minimum number of operations & sequence of operations to transform n into 1
      * Operations:

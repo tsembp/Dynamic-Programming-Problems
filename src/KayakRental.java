@@ -4,6 +4,8 @@ import java.util.List;
 
 public class KayakRental {
 
+    // HW3 - Ex.3
+
     // - Given n rental stations for kayaks
     // - For two stations i,j so that 1 <= i < j <= n, you are given the rent cost to rent 
     // a kayak from i and leave it at j, let cost(i,j)
