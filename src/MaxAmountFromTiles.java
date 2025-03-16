@@ -2,6 +2,8 @@ public class MaxAmountFromTiles {
 
     // HW3 - Ex.7
 
+    // Similar to Leetcode 64 Minimum Path Sum (but for max here)
+
     // Given an n*m grid where each tile may have an amount of money stored
     // Return the maximum amount of money someone can collect and which route he followed
 
